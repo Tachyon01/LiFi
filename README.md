@@ -15,6 +15,7 @@ We can now transfer txt files using:
 Image files can be transferred by encoding image to base64 and transfer the file and then decode it.
 File size is limited to around 1.3KB due to arduino memory size
 
+
 For transferring data through Python2.7:
 
 import serial
